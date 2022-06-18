@@ -9,9 +9,9 @@ Our Head Pose Esitmation (HPE) achieves proper performance and robustness in spa
 4. Newly generated rotated dataset in range -45 degree to 45 degree. 
 
 
-# Notification
-We are not able to upload all dataset and final presentation file due to uploading constraint in Github. We upload the pdf version presentation files, it can be found in /presentation/  
-If has any concerns about dataset, please email me. 
+## Notification
+We are not able to upload all dataset and final presentation file due to uploading constraint in Github. We upload the pdf version presentation files, it can be found in /presentation/final_ppt.pdf.
+If you have any concerns about dataset and presentation files, please email me. 
 
 ## Authors
 
