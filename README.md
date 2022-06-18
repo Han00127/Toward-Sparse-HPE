@@ -7,7 +7,11 @@ Our Head Pose Esitmation (HPE) achieves proper performance and robustness in spa
 2. Newly generated masked data only for HPE.
 3. Trained model with diverse dataset
 4. Newly generated rotated dataset in range -45 degree to 45 degree. 
-Note that due to uploading constraint in Github, we are not able to upload all dataset. If has any concerns about dataset, please email me. 
+
+
+# Notification
+We are not able to upload all dataset and final presentation file due to uploading constraint in Github. We upload the pdf version presentation files, it can be found in /presentation/  
+If has any concerns about dataset, please email me. 
 
 ## Authors
 
