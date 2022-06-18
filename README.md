@@ -11,7 +11,7 @@ Our Head Pose Esitmation (HPE) achieves proper performance and robustness in spa
 
 
 ## Quick start
-Please visit [here]((https://bridge-aix.inha.ac.kr/studio/preview?projectId=48&token=eyJhbGciOiJIUzI1NiJ9.OA.LkEQgaZ3g67mvxL2PYlV6pGn5N6WRBCjwqbTR7Jml6E&nodeName=master).
+* Please visit [here](https://bridge-aix.inha.ac.kr/studio/preview?projectId=48&token=eyJhbGciOiJIUzI1NiJ9.OA.LkEQgaZ3g67mvxL2PYlV6pGn5N6WRBCjwqbTR7Jml6E&nodeName=master).
 
 ## Get Started 
 ### Preparing datasets
