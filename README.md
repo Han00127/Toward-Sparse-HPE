@@ -14,6 +14,7 @@ Our Head Pose Esitmation (HPE) achieves proper performance and robustness in spa
 * Please visit [here](https://bridge-aix.inha.ac.kr/studio/preview?projectId=48&token=eyJhbGciOiJIUzI1NiJ9.OA.LkEQgaZ3g67mvxL2PYlV6pGn5N6WRBCjwqbTR7Jml6E&nodeName=master).
 
 ## Get Started 
+Please set requirments.txt to virtual environment or conda. 
 ### Preparing datasets
 Download datasets:
 * **300W-LP**, **AFLW2000** from [here](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm).
