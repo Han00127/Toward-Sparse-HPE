@@ -1,5 +1,6 @@
 # Toward-Sparse-HPE
-This project aims to make head pose estimation without face detection in sparse dataset and robust to occlusion..
+This project aims to make head pose estimation without face detection in sparse dataset and robust to occlusion.
+This project is the term project for AI convergence project at Inha University with Suprema. 
 
 ## Description
 Our Head Pose Esitmation (HPE) achieves proper performance and robustness in sparse and masked dataset without using face detection. The details of our project are summarized as follows: 
@@ -14,7 +15,6 @@ We are not able to upload all dataset and final presentation file due to uploadi
 If you have any concerns about dataset and presentation files, please email me. 
 
 ## Authors
-
 Kyeontak Han 
 
 
