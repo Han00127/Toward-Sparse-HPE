@@ -11,17 +11,21 @@ Our Head Pose Esitmation (HPE) achieves proper performance and robustness in spa
 
 ## Rotated Images 
 <p align="center">
-  <img align="left" src="./figures/45_dgree_change.gif" width="200"> (a)
-  <img align="center" src="./figures/original.gif" width="200"> (b)
-  <img align="right" src="./figures/-45_degree_change.gif" width="200"> (c)
+  <img align="left" src="./figures/45_dgree_change.gif" width="200">
+  <img align="center" src="./figures/original.gif" width="200">
+  <img align="right" src="./figures/-45_degree_change.gif" width="200">
 </p>
 <p align="center">
   Fig. 1 - Rotated image examples 45 to -45 from left to right.
-<!-- ### distribution
+</p>
+  ### distribution
 <p align="center"> 
-  <img align="left" src="./figures/45_dgree_change.gif" width="200"> ORi
-  <img align="right" src="./figures/-45_degree_change.gif" width="200">
-</p> -->
+  <img align="left" src="./figures/orig_dist.png" width="200"> 
+  <img align="right" src="./figures/changed_dist.png" width="200">
+</p>
+<p align="center">
+  Fig. 2 - left : original distribution of BIWI data, right: rotated distribution of BIWI in range [45,-45] degrees
+</p>
 
 
 ## Quick start
