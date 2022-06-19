@@ -18,7 +18,7 @@ Our Head Pose Esitmation (HPE) achieves proper performance and robustness in spa
 
 ## Get Started 
 Please set requirments.txt to virtual environment or conda. 
-# Requirements
+### Requirements
 
 *   torch==1.5.1 cu102
 *   torchvision==0.6.1
