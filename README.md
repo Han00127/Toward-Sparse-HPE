@@ -11,8 +11,8 @@ Our Head Pose Esitmation (HPE) achieves proper performance and robustness in spa
 
 ## Pseudocode
 
-<img align="center" src="./figures/45_dgree_change.gif" width="250">
-<img align="center" src="./figures/-45_degree_change.gif" width="250">
+<img align="left" src="./figures/45_dgree_change.gif" width="250">
+<img align="right" src="./figures/-45_degree_change.gif" width="250">
 <img align="center" src="./figures/original.gif" width="250">
 
 ## Quick start
