@@ -16,7 +16,7 @@ Our Head Pose Esitmation (HPE) achieves proper performance and robustness in spa
   <img align="right" src="./figures/-45_degree_change.gif" width="200">
 </p>
 <p align="center">
-  Fig. 1 - Rotated image examples 45 to -45 from left to right.
+  Fig. 1 - Rotated image examples -45, 0, 45 degree.
 </p>
 
 ### Distribution
