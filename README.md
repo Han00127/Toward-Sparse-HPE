@@ -9,6 +9,15 @@ Our Head Pose Esitmation (HPE) achieves proper performance and robustness in spa
 3. Trained model with diverse dataset
 4. Newly generated rotated dataset in range -45 degree to 45 degree. 
 
+## Trained Results
+<p align="center">
+  <img align="center" src="./figures/training_result2.gif" width="400">
+</p>
+<p align="center">
+  Fig. 1 - Result of our trained model. 
+</p>
+
+
 ## Rotated Images 
 <p align="center">
   <img align="left" src="./figures/45_dgree_change.gif" width="200">
@@ -16,7 +25,7 @@ Our Head Pose Esitmation (HPE) achieves proper performance and robustness in spa
   <img align="right" src="./figures/-45_degree_change.gif" width="200">
 </p>
 <p align="center">
-  Fig. 1 - Rotated image examples -45, 0, 45 degree.
+  Fig. 2 - Rotated image examples -45, 0, 45 degree.
 </p>
 
 ### Distribution
@@ -26,7 +35,7 @@ Our Head Pose Esitmation (HPE) achieves proper performance and robustness in spa
 </p>
 &NewLine;
 <p align="center">
-  Fig. 2 - left : original distribution of BIWI data, right: rotated distribution of BIWI in range [45,-45] degrees
+  Fig. 3 - left : original distribution of BIWI data, right: rotated distribution of BIWI in range [45,-45] degrees
 </p>
 &NewLine;
 
