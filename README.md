@@ -21,8 +21,8 @@ Our Head Pose Esitmation (HPE) achieves proper performance and robustness in spa
 
 ### Distribution
 <p align="center"> 
-  <img align="center" src="./figures/orig_dist.png" width="200"> &nbsp;
-  <img align="center" src="./figures/changed_dist.png" width="200">
+  <img align="center" src="./figures/orig_dist.png" width="350"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="center" src="./figures/changed_dist.png" width="350">
 </p>
 &NewLine;
 <p align="center">
