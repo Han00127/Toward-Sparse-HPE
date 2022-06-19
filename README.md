@@ -12,7 +12,13 @@ Our Head Pose Esitmation (HPE) achieves proper performance and robustness in spa
 ## Quick start
 * Please go to [here](https://bridge-aix.inha.ac.kr/studio/preview?projectId=48&token=eyJhbGciOiJIUzI1NiJ9.OA.LkEQgaZ3g67mvxL2PYlV6pGn5N6WRBCjwqbTR7Jml6E&nodeName=master).
 
-## Requirements
+## Pseudocode
+
+<img align="center" src="./figures/45_degree_change.gif" width="750">
+
+## Get Started 
+Please set requirments.txt to virtual environment or conda. 
+# Requirements
 
 *   torch==1.5.1 cu102
 *   torchvision==0.6.1
@@ -20,12 +26,6 @@ Our Head Pose Esitmation (HPE) achieves proper performance and robustness in spa
 *   pillow>=8.1.0
 *   scipy=1.7.3
 
-## Pseudocode
-
-<img align="center" src="./figures/45_degree_change.gif" width="750">
-
-## Get Started 
-Please set requirments.txt to virtual environment or conda. 
 ### Preparing datasets
 Download datasets:
 * **300W-LP**, **AFLW2000** from [here](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm).
