@@ -18,7 +18,8 @@ Our Head Pose Esitmation (HPE) achieves proper performance and robustness in spa
 <p align="center">
   Fig. 1 - Rotated image examples 45 to -45 from left to right.
 </p>
-  ### distribution
+
+### distribution
 <p align="center"> 
   <img align="left" src="./figures/orig_dist.png" width="200"> 
   <img align="right" src="./figures/changed_dist.png" width="200">
