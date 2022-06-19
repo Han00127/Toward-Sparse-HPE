@@ -17,13 +17,11 @@ Our Head Pose Esitmation (HPE) achieves proper performance and robustness in spa
   Fig. 1 - Result of our trained model. 
 </p>
 
-<p align="center">
+
 |Model|Dataset|Yaw|Pitch|Roll|MAE|
-|------|---|---|---|---|---|
-|테스트1|테스트2|테스트3|테스트4|테스트5|테스트6|
-|테스트1|테스트2|테스트3|테스트4|테스트5|테스트6|
-|테스트1|테스트2|테스트3|테스트4|테스트5|테스트6|
-</p>
+|---|---|---|---|---|---|
+|Our|BIWI|5.43|4.17|3.74|4.45|
+|Our|BIWI_masked|4.45|2.97|2.90|3.44|
 
 ## Masked Images 
 <p align="center">
