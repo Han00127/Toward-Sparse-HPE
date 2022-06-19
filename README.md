@@ -24,11 +24,11 @@ Our Head Pose Esitmation (HPE) achieves proper performance and robustness in spa
   <img align="left" src="./figures/orig_dist.png" width="200"> 
   <img align="right" src="./figures/changed_dist.png" width="200">
 </p>
-<br> <br/>
+&NewLine;
 <p align="center">
   Fig. 2 - left : original distribution of BIWI data, right: rotated distribution of BIWI in range [45,-45] degrees
 </p>
-
+&NewLine;
 
 ## Quick start
 * Please go to [here](https://bridge-aix.inha.ac.kr/studio/preview?projectId=48&token=eyJhbGciOiJIUzI1NiJ9.OA.LkEQgaZ3g67mvxL2PYlV6pGn5N6WRBCjwqbTR7Jml6E&nodeName=master).
