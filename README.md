@@ -9,9 +9,20 @@ Our Head Pose Esitmation (HPE) achieves proper performance and robustness in spa
 3. Trained model with diverse dataset
 4. Newly generated rotated dataset in range -45 degree to 45 degree. 
 
-
 ## Quick start
-* Please visit [here](https://bridge-aix.inha.ac.kr/studio/preview?projectId=48&token=eyJhbGciOiJIUzI1NiJ9.OA.LkEQgaZ3g67mvxL2PYlV6pGn5N6WRBCjwqbTR7Jml6E&nodeName=master).
+* Please go to [here](https://bridge-aix.inha.ac.kr/studio/preview?projectId=48&token=eyJhbGciOiJIUzI1NiJ9.OA.LkEQgaZ3g67mvxL2PYlV6pGn5N6WRBCjwqbTR7Jml6E&nodeName=master).
+
+## Requirements
+
+*   torch==1.5.1 cu102
+*   torchvision==0.6.1
+*   numpy>=1.15.0
+*   pillow>=8.1.0
+*   scipy=1.7.3
+
+## Pseudocode
+
+<img align="center" src="assets/pseudocode.png" width="750">
 
 ## Get Started 
 Please set requirments.txt to virtual environment or conda. 
