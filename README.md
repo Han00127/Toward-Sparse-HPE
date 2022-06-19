@@ -17,6 +17,15 @@ Our Head Pose Esitmation (HPE) achieves proper performance and robustness in spa
   Fig. 1 - Result of our trained model. 
 </p>
 
+## Masked Images 
+<p align="center">
+  <img align="center" src="./figures/Screenshot from 2022-04-25 14-24-31.png" width="400">
+</p>
+<p align="center">
+  Fig. 2 - Masked image generation. 
+</p>
+
+
 
 ## Rotated Images 
 <p align="center">
@@ -25,7 +34,7 @@ Our Head Pose Esitmation (HPE) achieves proper performance and robustness in spa
   <img align="right" src="./figures/-45_degree_change.gif" width="200">
 </p>
 <p align="center">
-  Fig. 2 - Rotated image examples -45, 0, 45 degree.
+  Fig. 3 - Rotated image examples -45, 0, 45 degree.
 </p>
 
 ### Distribution
@@ -35,7 +44,7 @@ Our Head Pose Esitmation (HPE) achieves proper performance and robustness in spa
 </p>
 &NewLine;
 <p align="center">
-  Fig. 3 - left : original distribution of BIWI data, right: rotated distribution of BIWI in range [45,-45] degrees
+  Fig. 4 - left : original distribution of BIWI data, right: rotated distribution of BIWI in range [45,-45] degrees
 </p>
 &NewLine;
 
