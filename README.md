@@ -9,12 +9,17 @@ Our Head Pose Esitmation (HPE) achieves proper performance and robustness in spa
 3. Trained model with diverse dataset
 4. Newly generated rotated dataset in range -45 degree to 45 degree. 
 
-## Pseudocode
+## Rotated Images 
 <p align="center">
   <img align="left" src="./figures/45_dgree_change.gif" width="200">
   <img align="center" src="./figures/original.gif" width="200">
   <img align="right" src="./figures/-45_degree_change.gif" width="200">
 </p>
+<!-- ### distribution
+<p align="center"> 
+  <img align="left" src="./figures/45_dgree_change.gif" width="200"> ORi
+  <img align="right" src="./figures/-45_degree_change.gif" width="200">
+</p> -->
 
 
 ## Quick start
