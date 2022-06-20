@@ -93,6 +93,6 @@ We are not able to upload all dataset and final presentation file due to uploadi
 If you have any concerns about dataset and presentation files, please email me. 
 
 ## Authors
-Kyeontak Han 
+Kyeontak Han, Sujung Kim
 
 
